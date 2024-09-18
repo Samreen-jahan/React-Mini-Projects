@@ -1,0 +1,22 @@
+.App{
+ 
+  max-width: fit-content;
+  margin-inline: auto;
+}
+.star{
+  margin :10px;
+  font-size: 70px;;
+}
+button{
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+}
+.on{
+  color: rgb(201, 19, 242);
+}
+.off{
+  color: #ccc;
+}
